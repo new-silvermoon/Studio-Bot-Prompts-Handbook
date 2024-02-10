@@ -34,24 +34,29 @@ Accessibility Best Practices
 
 "Suggest changes to improve the accessibility of this form based on WCAG guidelines."
 "Are there opportunities to use 'heading' or 'landmark' modifiers in this layout for better screen reader support?"
-Exhaustive List of Prompts
+
+Examples
 
 Content Descriptions
 
 "Does this Image have a meaningful content description?"
 "Suggest an improved content description for this decorative Image."
+
 Color Contrast
 
 "Verify if the color contrast between this Text and its background meets accessibility requirements."
 "Provide alternative color combinations that would improve contrast for this Button."
+
 Touch Targets
 
 "Are all interactive elements in this layout large enough for touch interactions?"
 "Recommend adjustments to touch target sizes for any elements that are too small."
+
 Focus Management
 
 "Is the focus order for this form logical and easy to follow?"
 "Identify any elements that should be focusable but are not."
+
 Accessibility Services
 
 "Simulate using this composable with TalkBack enabled. Are there any issues with screen reader announcements?"
