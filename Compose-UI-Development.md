@@ -20,33 +20,39 @@ Another layout element (e.g., "within a Column")
 
 Examples that leverage the prompt:
 
-Basic Layout
+**Basic Layout**
 
 "Create a Column layout with vertical arrangement."
 "Build a Row layout with horizontal spacing between elements."
 "Generate a LazyColumn to display a list of items."
-Text Elements
+
+**Text Elements**
 
 "Add a Text composable with the content 'Welcome!' and a headline style."
 "Create a Text field for user input, with a hint 'Enter your name'."
-Buttons & Images
+
+**Buttons & Images**
 
 "Generate a Button with the text 'Submit' and blue background color."
 "Insert an Image from the res/drawable folder named 'app_logo'."
-Modifiers
+
+**Modifiers**
 
 "Make this Button clickable and add rounded corners."
 "Apply padding of 16dp to this Text composable."
 "Set the width of this Image to fill the parent container."
-State & User Input
+
+**State & User Input**
 
 "Create a remember state variable to store a username."
 "Connect this Text field to a state variable to update its content."
-UI Themes
+
+**UI Themes**
 
 "Apply a Material Design dark theme to this composable."
 "Use the app's primary color in this Button."
-Accessibility
+
+**Accessibility**
 
 "Add a content description 'Profile image' to this Image composable."
 "Increase the font size and contrast of this Text for better readability."
