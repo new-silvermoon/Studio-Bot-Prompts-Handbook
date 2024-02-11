@@ -1,5 +1,4 @@
-Here's a comprehensive guide on building Android UI components in Jetpack Compose using Studio Bot, packed with a range of prompt examples.
-
+Here's a comprehensive guide on building Android UI components in Jetpack Compose using Studio Bot.
 Here's a versatile generic sentence template, along with explanations of the placeholders:
 
 Template:
