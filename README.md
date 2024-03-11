@@ -1,5 +1,5 @@
 # Studio-Bot-Prompts-Handbook
-**Prompt Engineering Handbook for Android App Development with Studio Bot**
+## Prompt Engineering Handbook for Android App Development with Studio Bot
 
 Purpose: This repository contains a list of effective prompts to supercharge your Android app development using Studio Bot in Android Studio. Whether you're a beginner or experienced developer, you'll find practical guidance and examples showcaisng the usage of Gen AI to assit with your development process.
 
@@ -36,7 +36,7 @@ Importance for Android Development:
 Studio Bot Overview: How it fits into the development process.
 
 
-**Prompt Design Fundamentals**
+## Prompt Design Fundamentals
 
 Clear and Specific Goals
 
